@@ -1,5 +1,5 @@
 public class TestBranch {
     public void Test() {
-        System.out.println("I'm testing protection");
+        System.out.println("I'm testing protection ver2");
     }
 }
